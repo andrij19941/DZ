@@ -1,0 +1,126 @@
+body {
+    background-color: #F8FBFE;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 130px;
+    margin-right: 130px;
+}
+.logo1 {
+    margin-right: 121px;
+    width: 49px;
+    height: 35px;
+}
+.navigation{
+   cursor: pointer;
+   text-decoration: none;
+   width: 322px;
+   height: 30px;
+   left:1000px;
+   top: 65px
+}
+.list {
+display: flex;
+justify-content: space-around;
+width: 322px;
+   height: 30px;
+   left: 500px;
+   top: 65px
+}
+.dddd {
+  
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.button {
+  width: 210px;
+  height: 60px;
+  left: 1150px;
+  top: 50px;
+  background: #FFFFFF;
+  box-shadow: 0px 5px 5px rgba(75, 93, 104, 0.1);
+  border-radius: 50px;
+  
+}
+li {
+  list-style-type: none;
+}
+.section1 {
+  width: 645px;
+  height: 464px;
+  left: 240px;
+  top: 240px;
+}
+h1 {
+  width: 645px;
+  height: 184px;
+  left: 240px;
+  top: 240px;
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 80px;
+  line-height: 110%;
+  display: flex;
+  align-items: center;
+  color: #212353;
+}
+p {
+  width: 380px;
+  height: 120px;
+  left: 240px;
+  top: 474px;
+  font-family: 'Avenir';
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height:160%;
+  color: #4B5D68;
+}
+.image1 {
+  width: 885px;
+  height: 468px;
+  left: 603px;
+  top: 336px;
+}
+.button1 {
+  width: 170px;
+  height: 60px;
+  left: 240px;
+  top: 644px;
+  background: #9C69E2;
+  border-radius: 50px;
+}
+.section2 {
+  width: 1117px;
+  height: 560px;
+  left: 240px;
+  top: 903.18px;
+  background: rgba(240, 99, 184, 0.15);
+  border-radius: 50px;
+}
+.image2 {
+  width: 477px;
+  height: 504px;
+  left: 251px;
+  top: 935px;
+}
+.text{
+  width: 475px;
+  height: 310px;
+  left: 790px;
+  top: 1028.18px;
+}
+.info {
+  font-family: 'Helvetica';
+  font-style: normal;
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 130%;
+  display: flex;
+  align-items: center;
+  color: black;
+  
+}
